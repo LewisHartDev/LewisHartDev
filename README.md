@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a 26-year-old coder with a passion for web dev
 
 ## 📫 How to Reach Me
 - **Email**: [hello@lewishart.com](mailto:hello@lewishart.com)
-- **Discord**: [LewisTheGreat]
+- **Discord**: LewisTheGreat
 - **GitHub**: You're already here!
 
 ## ⚡ Fun Facts
